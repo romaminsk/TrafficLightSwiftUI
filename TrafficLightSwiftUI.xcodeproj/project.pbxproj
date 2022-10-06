@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E03CA09728EEBEA200AED208 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E03CA09628EEBEA200AED208 /* CircleView.swift */; };
 		E0F8E8B128EDB49F00FDCFDA /* TrafficLightSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F8E8B028EDB49F00FDCFDA /* TrafficLightSwiftUIApp.swift */; };
 		E0F8E8B328EDB49F00FDCFDA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F8E8B228EDB49F00FDCFDA /* ContentView.swift */; };
 		E0F8E8B528EDB4A100FDCFDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0F8E8B428EDB4A100FDCFDA /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E03CA09628EEBEA200AED208 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 		E0F8E8AD28EDB49F00FDCFDA /* TrafficLightSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficLightSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0F8E8B028EDB49F00FDCFDA /* TrafficLightSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightSwiftUIApp.swift; sourceTree = "<group>"; };
 		E0F8E8B228EDB49F00FDCFDA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				E0F8E8B028EDB49F00FDCFDA /* TrafficLightSwiftUIApp.swift */,
 				E0F8E8B228EDB49F00FDCFDA /* ContentView.swift */,
+				E03CA09628EEBEA200AED208 /* CircleView.swift */,
 				E0F8E8B428EDB4A100FDCFDA /* Assets.xcassets */,
 				E0F8E8B628EDB4A100FDCFDA /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E03CA09728EEBEA200AED208 /* CircleView.swift in Sources */,
 				E0F8E8B328EDB49F00FDCFDA /* ContentView.swift in Sources */,
 				E0F8E8B128EDB49F00FDCFDA /* TrafficLightSwiftUIApp.swift in Sources */,
 			);
